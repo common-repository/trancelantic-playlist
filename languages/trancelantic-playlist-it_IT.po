@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: trancelantic-playlist 1.0.0\n"
+"POT-Creation-Date: 2020-01-25 20:10+0100\n"
+"PO-Revision-Date: 2020-01-26 10:56+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: views/admin-appearance.php:4
+msgid "Appearance:"
+msgstr "Aspetto:"
+
+#: views/admin-appearance.php:10
+msgid "Current Track"
+msgstr "Brano Attuale"
+
+#: views/admin-appearance.php:11
+msgid "Cover gallery"
+msgstr "Galleria delle cover"
+
+#: views/admin-appearance.php:12
+msgid "Track list"
+msgstr "Lista dei brani"
+
+#: views/admin-appearance.php:18
+msgid "Number of tracks:"
+msgstr "Numero dei brani:"
+
+#: views/admin-appearance.php:39
+msgid "Show current track in list or in gallery"
+msgstr "Visualizza brano attuale nella lista o nella galleria"
+
+#: views/admin-title.php:4
+msgid "Title:"
+msgstr "Titolo:"
+
+#: views/admin-title.php:23
+msgid "Show Title"
+msgstr "Mostra titolo"
+
+#: views/admin-user.php:4
+msgid "Username:"
+msgstr "Nome utente:"
+
+#. TRANSLATORS: Title on error
+#: views/error.php:14
+msgid "Ups, we did it again!"
+msgstr "Ups, we did it again!"
+
+#. TRANSLATORS: Message on error
+#: views/error.php:19
+msgid "Sorry, but this channel is currently offline."
+msgstr "Spiacente, sembra che il canale sia al momento offline."
+
+#. TRANSLATORS: Name of widget
+#: widgets/playlist.php:35
+msgid "Trancelantic Playlist"
+msgstr "Trancelantic Playlist"
+
+#: widgets/playlist.php:36
+msgid "Shows your current playlist."
+msgstr "Mostra la playlist attuale."
+
+#: widgets/playlist.php:40
+msgid "My recently songs"
+msgstr "I miei brani ascoltati di recente"
+
+#~ msgid "I am listening to"
+#~ msgstr "Sto ascoltando"
+
+#~ msgid "Trancelantic Playlist Played Songs"
+#~ msgstr "Trancelantic Playlist Brani Ascoltati"
+
+#~ msgid "Show list of played songs."
+#~ msgstr "Mostra lista dei brani già’ ascoltati."
+
+#~ msgid "API Key:"
+#~ msgstr "Nome utente:"

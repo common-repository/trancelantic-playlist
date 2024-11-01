@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: trancelantic-playlist 1.0.0\n"
+"POT-Creation-Date: 2020-01-14 00:25+0100\n"
+"PO-Revision-Date: 2021-01-20 11:51+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Last-Translator: \n"
+"Language: zh\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: views/admin_title.php:4
+msgid "Title:"
+msgstr "标题:"
+
+#: views/admin_title.php:22 views/current_song.php:13
+msgid "Show Title"
+msgstr "显示标题"
+
+#: views/admin_user.php:4
+msgid "Username:"
+msgstr "用户名:"
+
+#: views/admin_user.php:16
+msgid "API Key:"
+msgstr "API Key:"
+
+#: views/channel_error.php:13
+msgid "Ups, we did it again!"
+msgstr "Ups, we did it again!"
+
+#: views/channel_error.php:18
+msgid "Sorry, but this channel is currently offline."
+msgstr "对不起，这个频道当前是离线的."
+
+#: widgets/current_song.php:17
+msgid "Trancelantic Playlist Current Song"
+msgstr "当前轨道"
+
+#: widgets/current_song.php:18
+msgid "Show currently played song."
+msgstr "在列表或图库中显示当前的轨道."
+
+#: widgets/current_song.php:26 widgets/current_song.php:33
+#: widgets/current_song.php:44
+msgid "I am listening to"
+msgstr "当前轨道"
+
+#: widgets/played_songs.php:17
+msgid "Trancelantic Playlist Played Songs"
+msgstr "播放的歌曲"
+
+#: widgets/played_songs.php:18
+msgid "Show list of played songs."
+msgstr "显示播放的歌曲列表."
+
+#: widgets/played_songs.php:26 widgets/played_songs.php:33
+#: widgets/played_songs.php:44
+msgid "My recently songs"
+msgstr "我最近的歌曲"
